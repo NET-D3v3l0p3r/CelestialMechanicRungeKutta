@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/celestialbody.fbx</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/SunColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/NeptunColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/PlutoColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/SaturnColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/UranusColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/VenusColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/ErdeColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/JupiterColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/MarsColor.png</File>
+    <File>C:/Users/3r0rXx/Desktop/CelestialMechanicSimulatorV2MG/CelestialMechanicSimulatorV2MG/Content/MerkurColor.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,93 @@
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\CelestialMechanicSimulatorV2MG.exe
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\CelestialMechanicSimulatorV2MG.pdb
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.csprojResolveAssemblyReference.cache
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.exe
+C:\Users\DEV\AppData\Local\Temporary Projects\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.pdb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.csprojResolveAssemblyReference.cache
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.exe
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.pdb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\CelestialMechanicSimulatorV2MG.exe
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\CelestialMechanicSimulatorV2MG.pdb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\celestialbody.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\SunColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\ErdeColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\JupiterColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\MarsColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\MerkurColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\NeptunColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\PlutoColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\SaturnColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\UranusColor.xnb
+C:\Users\DEV\Documents\Visual Studio 2017\Projects\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\VenusColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\celestialbody.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\ErdeColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\JupiterColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\MarsColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\MerkurColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\NeptunColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\PlutoColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\SaturnColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\SunColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\UranusColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\Content\VenusColor.xnb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\CelestialMechanicSimulatorV2MG.exe
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\CelestialMechanicSimulatorV2MG.pdb
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.csprojResolveAssemblyReference.cache
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.exe
+C:\Users\3r0rXx\Desktop\CelestialMechanicSimulatorV2MG\CelestialMechanicSimulatorV2MG\obj\x86\Debug\CelestialMechanicSimulatorV2MG.pdb
